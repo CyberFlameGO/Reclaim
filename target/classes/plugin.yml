@@ -1,0 +1,10 @@
+name: Reclaim
+main: me.cyberfla.reclaim.Main
+version: 420
+commands:
+  reclaim:
+    description: Reclaim main player command
+  claim:
+    description: Reclaim plugin root command
+  resetreclaim:
+    description: Reset player reclaims!
