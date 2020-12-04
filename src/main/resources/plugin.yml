@@ -3,8 +3,8 @@ main: me.cyberfla.reclaim.Main
 version: ${project.version}
 commands:
   reclaim:
-    description: Reclaim your items and stuff.
+    description: Reclaim main player command
   claim:
-    description: Plugin info!
+    description: Reclaim plugin root command
   resetreclaim:
     description: Reset player reclaims!
