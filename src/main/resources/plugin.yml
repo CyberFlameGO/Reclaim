@@ -1,3 +1,10 @@
 name: ${project.name}
 main: me.cyberfla.reclaim.Main
 version: ${project.version}
+commands:
+  reclaim:
+    description: Reclaim your items and stuff.
+  claim:
+    description: Plugin info!
+  resetreclaim:
+    description: Reset player reclaims!
