@@ -1,5 +1,5 @@
 name: ${project.name}
-main: me.cyberfla.reclaim.Main
+main: net.cyberflame.reclaim.Main
 version: ${project.version}
 commands:
   reclaim:
