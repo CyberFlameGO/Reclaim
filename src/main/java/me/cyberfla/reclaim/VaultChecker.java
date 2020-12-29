@@ -1,4 +1,4 @@
-package me.cyberfla.reclaim;
+package net.cyberflame.reclaim;
 
 import net.milkbowl.vault.permission.Permission;
 import org.bukkit.Bukkit;
