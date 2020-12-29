@@ -1,4 +1,4 @@
-package me.cyberfla.reclaim;
+package net.cyberflame.reclaim;
 
 import java.util.ArrayList;
 import java.util.List;
